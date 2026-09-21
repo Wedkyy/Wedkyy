@@ -2,7 +2,7 @@
 
 # Benjamin Villalobos Álvarez
 
-### Ingeniero en Informática (Egresado) — Datos, Automatización & IA Aplicada
+### Ingeniero en Informática — Enfocado en Ingeniería en Datos, Automatización & IA Aplicada
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-villalobos-alvarez-38877135b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wedkyy)
