@@ -213,8 +213,8 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <table>
 <tr>
 <td width="45%">
-<img src="Image/HaBit.png" width="80%"/>
-<td width="65%" valign="top">
+<img src="Image/HaBit.png" width="120%"/>
+<td width="55%" valign="top">
 
 **Problema:** necesitaba una herramienta de seguimiento de hábitos hecha a la medida de mi propio uso diario.
 
