@@ -121,7 +121,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <table>
 <tr>
 <td width="45%">
-<img src="https://placehold.co/800x450/0f172a/38bdf8?text=Captura%3A+Tarjetas+Excel&font=roboto" width="100%"/>
+<img src="Image/image.png" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
@@ -144,7 +144,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <table>
 <tr>
 <td width="45%">
-<img src="https://placehold.co/800x450/0f172a/38bdf8?text=Captura%3A+Gestion+Andamios&font=roboto" width="100%"/>
+<img src="Image/programa.png" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
