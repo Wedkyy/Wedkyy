@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Egresado de Ingeniería en Informática con foco en Ingeniería de Datos, Business Intelligence y Automatización con IA. Me gusta resolver problemas reales con lo que tenga a mano — desde pipelines de datos a gran escala, hasta hardware IoT y agentes conversacionales. Actualmente construyendo un sistema end-to-end de generación de KPIs desde simulación de flota de vehículos CAEX (Python + Kafka + PySpark).
+Egresado de Ingeniería en Informática con foco en Ingeniería de Datos y Automatización. Me gusta resolver problemas reales con un stack tecnologico solido y que permita tanto la eficiencia operativo como la resolución de los requerimientos — desde pipelines de datos a gran escala, hasta hardware IoT y agentes conversacionales.
 
 ## 🛠️ Stack Técnico
 
@@ -62,7 +62,3 @@ Sistema end-to-end que simula un flujo continuo de datos de una flota de 5 camio
 `Python` `Kafka` `PySpark` `Medallion Architecture`
 
 ---
-
-## 📫 Contacto
-
-📧 benjaminbv03@gmail.com &nbsp;|&nbsp; 📱 +56 9 2215 1799 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/benjamin-villalobos-alvarez-38877135b/) &nbsp;|&nbsp; [GitHub](https://github.com/Wedkyy)
