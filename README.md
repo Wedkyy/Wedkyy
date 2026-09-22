@@ -27,7 +27,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 ### Datos & BI
 <br>
-<img src="Image/datos.png" width="50%"/>
+<img src="Image/datos.png" width="30%"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -42,7 +42,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 ### Automatización & Apps
 <br>
-<img src="Image/automatizacion.png" width="50%"/>
+<img src="Image/automatizacion.png" width="30%"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,7 +54,9 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </td>
 <td valign="top" width="33%" align="center">
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
+<br>
+<img src="Image/nube.png" width="100%"/>
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
