@@ -105,7 +105,7 @@ https://github.com/Wedkyy/Mining-pipeline
 <table>
 <tr>
 <td width="45%">
-<img src="https://placehold.co/800x450/0f172a/38bdf8?text=Captura%3A+Extraccion+IA&font=roboto" width="100%"/>
+<img src="Image/ia.png" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
@@ -197,7 +197,7 @@ https://github.com/Wedkyy/Mining-pipeline
 <table>
 <tr>
 <td width="45%">
-<img src="https://placehold.co/800x450/0f172a/38bdf8?text=Captura%3A+Vehiculo+IoT&font=roboto" width="100%"/>
+<img src="Image/auto.png" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
@@ -242,7 +242,7 @@ https://github.com/Wedkyy/Mining-pipeline
 <table>
 <tr>
 <td width="45%">
-<img src="https://placehold.co/800x450/1e293b/fbbf24?text=En+Desarrollo&font=roboto" width="100%"/>
+<img src="Image/caex.png" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
