@@ -88,7 +88,8 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <br>
 
 ### 1️⃣ Pipeline Big Data con Arquitectura Medallion — Sector Minero 
-📎 [Ver Repositorio del Proyecto] (https://github.com/Wedkyy/Mining-pipeline)
+[Repositorio](https://github.com/Wedkyy/Mining-pipeline)
+
 
 <table>
 <tr>
