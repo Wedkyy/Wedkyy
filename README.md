@@ -92,7 +92,7 @@ https://github.com/Wedkyy/Mining-pipeline
 
 **Resultado:** 3 requerimientos críticos de negocio resueltos, con trazabilidad e integración continua entre Databricks y GitHub.
 
-`Databricks` `PySpark` `SQL` `Medallion Architecture`
+`Databricks` `PySpark` `Medallion Architecture`
 
 </td>
 </tr>
