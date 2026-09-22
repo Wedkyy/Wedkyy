@@ -27,7 +27,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 ### Datos & BI
 <br>
-<img src="Image/datos.png" width="100%"/>
+<img src="Image/datos.png" width="50%"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -40,7 +40,9 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </td>
 <td valign="top" width="33%" align="center">
 
-### 🤖 Automatización & Apps
+### Automatización & Apps
+<br>
+<img src="Image/automatizacion.png" width="50%"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
