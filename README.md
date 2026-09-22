@@ -69,7 +69,15 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </td>
 </tr>
 </table>
+<br>
 
+## 📜 Certificaciones
+
+<div align="center">
+
+[![Microsoft Certified: Azure Data Fundamentals (DP-900)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-es/users/benjaminvillalobos-4859/credentials/c0d2cb0096dae7d5)
+
+</div>
 <br>
 
 ## 📌 Proyectos Destacados
