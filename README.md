@@ -105,7 +105,7 @@ https://github.com/Wedkyy/Mining-pipeline
 <table>
 <tr>
 <td width="45%">
-<img src="Image/ia.png" width="40%"/>
+<img src="Image/ia.png" width="50%" align="center"/>
 </td>
 <td width="55%" valign="top">
 
@@ -197,7 +197,7 @@ https://github.com/Wedkyy/Mining-pipeline
 <table>
 <tr>
 <td width="45%">
-<img src="Image/auto.png" width="100%"/>
+<img src="Image/auto.jpeg" width="100%"/>
 </td>
 <td width="55%" valign="top">
 
