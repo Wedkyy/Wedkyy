@@ -47,8 +47,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/-Arduino-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </td>
 <td valign="top" width="33%" align="center">
