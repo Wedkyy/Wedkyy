@@ -10,13 +10,12 @@
 </div>
 
 <br>
-
+<div>
 ## 👋 Sobre mí
+Construyo soluciones que transforman datos y tareas manuales en procesos automáticos, confiables y medibles. Mi motivación nace de algo simple: tanto trabajando como estudiando, me he dado cuenta de lo frustrante que puede ser un proceso lento y repetitivo — por eso mi foco está en identificar esos puntos críticos y proponer propuestas de mejora. Actualmente en aprendizaje constante, integrando nuevas soluciones a mi día a día.
 
-Construyo soluciones que transforman datos y tareas manuales en procesos automáticos, confiables y medibles. Mi trabajo se mueve entre tres capas: **ingeniería de datos**, **automatización con IA** y **desarrollo de herramientas internas** que resuelven problemas reales de operación. Actualmente me encuentro en proceso de desarrollo y aprendizaje continuo, buscando integrar soluciones tecnologicas a mi dia a dia.
-
-**🎯 Actualmente buscando** Desarrollarme con foco en roles de Automatización, Desarrollo de Software o Ingeniería en datos.
-
+**🎯 Buscando** oportunidades para desarrollarme en roles de Automatización, Desarrollo de Software o Ingeniería de Datos.
+</div>
 <br>
 
 ## 🛠️ Arsenal Tecnológico
