@@ -25,7 +25,9 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <tr>
 <td valign="top" width="33%" align="center">
 
-### 📊 Datos & BI
+### Datos & BI
+<br>
+<img src="Image/datos.png" width="100%"/>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
