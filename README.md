@@ -259,4 +259,5 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 ---
 <img src="Image/lofi.gif" width="100%"/>
+
 ---
