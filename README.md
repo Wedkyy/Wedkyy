@@ -71,6 +71,8 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </table>
 <br>
 
+---
+
 ## 📜 Certificaciones
 
 🏅 **Microsoft Certified: Azure Data Fundamentals (DP-900)**
@@ -78,6 +80,8 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </div>
 
 <br>
+
+---
 
 ## 📌 Proyectos Destacados
 
