@@ -23,7 +23,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 📊 Datos & BI
 
@@ -36,7 +36,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🤖 Automatización & Apps
 
@@ -48,7 +48,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### ☁️ Cloud & DevOps
 
