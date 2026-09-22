@@ -13,9 +13,9 @@
 
 ## 👋 Sobre mí
 
-Construyo soluciones que transforman datos y tareas manuales en procesos automáticos, confiables y medibles. Mi trabajo se mueve entre tres capas: **ingeniería de datos** (pipelines, arquitecturas Medallion, modelado), **automatización con IA** (agentes, OCR/NLP, IA conversacional) y **desarrollo de herramientas internas** (apps de escritorio ligeras con Python, React y Tauri) que resuelven problemas reales de operación.
+Construyo soluciones que transforman datos y tareas manuales en procesos automáticos, confiables y medibles. Mi trabajo se mueve entre tres capas: **ingeniería de datos**, **automatización con IA** y **desarrollo de herramientas internas** que resuelven problemas reales de operación. Actualmente me encuentro en proceso de desarrollo y aprendizaje continuo, buscando integrar soluciones tecnologicas a mi dia a dia.
 
-**🎯 Actualmente buscando** oportunidades como Data Engineer Jr, Analista/Ingeniero de BI o roles enfocados en Automatización con IA.
+**🎯 Actualmente buscando** Desarrollarme con foco en roles de Automatización, Desarrollo de Software o Ingeniería en datos.
 
 <br>
 
