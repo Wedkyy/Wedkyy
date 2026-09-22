@@ -18,6 +18,7 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 
 <br>
 
+---
 ## 🛠️ Arsenal Tecnológico
 
 <table>
