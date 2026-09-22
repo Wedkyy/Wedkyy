@@ -12,7 +12,7 @@
 ---
 <div align="center">
   
-## 👋 Sobre mí
+## Sobre mí
 </div>
 Construyo soluciones que transforman datos y tareas manuales en procesos automáticos, confiables y medibles. Mi motivación nace de algo simple: tanto trabajando como estudiando, me he dado cuenta de lo frustrante que puede ser un proceso lento y repetitivo — por eso mi foco está en identificar esos puntos críticos y proponer propuestas de mejora. Actualmente en aprendizaje constante, integrando nuevas soluciones a mi día a día.
 
@@ -21,8 +21,10 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 <br>
 
 ---
-## 🛠️ Arsenal Tecnológico
-
+<div align="center">
+  
+## Stack Tecnológico
+</div>
 <table>
 <tr>
 <td valign="top" width="33%" align="center">
