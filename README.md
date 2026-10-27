@@ -121,13 +121,13 @@ Construyo soluciones que transforman datos y tareas manuales en procesos automá
 </td>
 <td width="55%" valign="top">
 
-**Problema:** carga manual de resoluciones de entes regulatorios en Chile, un proceso lento y propenso a errores.
+**Problema:** cada nuevo portal web requería desarrollar un scraper a mano (cerca de 4 horas por sitio), y estos fallaban cada vez que el sitio cambiaba su estructura.
 
-**Solución:** agentes de IA en Python con OCR + NLP para transformar documentos no estructurados en esquemas tabulares relacionales, persistidos en SQL Server y desplegados en contenedores Docker sobre Linux.
+**Solución:** lideré como jefe de proyecto el desarrollo de un sistema modular en Python, donde cada módulo corre en su propio contenedor Docker y se comunica mediante APIs con FastAPI. Desde un frontend se gestionan los sitios a procesar, y agentes de IA con roles específicos generan automáticamente el extractor para cada sitio. Los documentos se procesan con OCR y NLP, se validan (campos obligatorios y duplicados) y se cargan en SQL Server.
 
-**Resultado:** tiempo operativo reducido en **99%** (de 4 horas a 2 minutos).
+**Resultado:** incorporar un nuevo sitio pasó de **4 horas a cerca de 2 minutos (~99% menos)**, sin intervención manual y con capacidad de adaptarse a cambios en los sitios.
 
-`Python` `OCR` `NLP` `Docker` `SQL Server`
+`Python` `FastAPI` `Docker` `IA Generativa` `OCR` `NLP` `SQL Server` `Microservicios`
 
 </td>
 </tr>
